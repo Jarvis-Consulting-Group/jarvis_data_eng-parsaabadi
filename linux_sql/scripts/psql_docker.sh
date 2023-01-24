@@ -7,7 +7,12 @@ db_password=$3
 
 #Start docker
 #Make sure you understand `||` cmd
-sudo systemctl status docker || systemctl #todo
+
+#check status of docker system, if it is not running, initiate it
+
+if ! sudo systemctl status docker; then
+  sudo systemctl start docker
+fi
 
 #check container status (try the following cmds on terminal)
 docker container inspect jrvs-psql
