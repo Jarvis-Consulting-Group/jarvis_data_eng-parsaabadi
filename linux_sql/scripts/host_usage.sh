@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Arguments: psql_host, psql_port, db_name, psql_user, psql_password
 psql_host=$1
 psql_port=$2
 db_name=$3
