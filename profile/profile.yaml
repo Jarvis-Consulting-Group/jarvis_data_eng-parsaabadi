@@ -75,7 +75,9 @@ highlighted_projects:
   - name: "Python Custom Compiler"
     git_url: "https://github.com/parsaabadi/Compiler-Final-Version"
     description: The project involved modifying a pre-existing P0 Compiler to include new features such as universal quantifiers, array builders, set builders, and existential quantifiers. These extensions were implemented by modifying files located in the src folder and adding new files required to extend the original P0 compiler capabilities. These new features allow for the use of quantified expressions in the P0 language, similar to those found in languages like Python, where they can be implemented through external libraries or custom designs. The project aims to enhance the P0 compiler's capabilities by adding support for universal and existential quantifiers, array builders, and set builders.
-
+  - name: "SprayPost"
+    git_url: "https://github.com/parsaabadi/Startup"
+    description: Spray Post is an innovative communication app that allows users to connect with others in close proximity using cutting-edge technology, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
