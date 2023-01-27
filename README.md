@@ -1,3 +1,4 @@
+feature/profile
 # Parsa Abadi . Jarvis Consulting
 
 My name is Parsa Abadi and I am an active team player who is curious, maintains a strict schedule, and mostly adheres to established protocols while also being open to flexibility when necessary. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science and have a strong academic record. I gained expertise in the tech and IT industry through my studies and as a research engineer at McScert, where I maintained and updated documentations for pods using JIRA, collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. Additionally, I am part of a city wide volleyball team and enjoy playing chess competitively. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
@@ -43,3 +44,4 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Painting (Realism, Oil, Photorealism)
 - Volleyball and soccer
 - Competitive games like chess or online multiplayer video games.
+develop
