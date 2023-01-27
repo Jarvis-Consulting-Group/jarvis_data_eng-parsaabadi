@@ -1,43 +1,45 @@
 # Preferred name (Characters only)
-name: "Parsa Abadi"
+name: "John Smith"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-parsaabadi
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
-# Introduce yourself, your academic and professional background.
-# What excites you about the software industry and your passion. At least 80 words
-summary: My name is Parsa Abadi and I am an active team player who is curious, maintains a strict schedule, and mostly adheres to established protocols while also being open to flexibility when necessary. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science and have a strong academic record. I gained expertise in the tech and IT industry through my studies and as a research engineer at McScert, where I maintained and updated documentations for pods using JIRA, collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. Additionally, I am part of a city wide volleyball team and enjoy playing chess competitively. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
 
-# Group your skills by level.
-# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
-  # At least 5 skills
-  proficient:
-    - Git/Github
-    - Angular/React
-    - Agile/Scrum
-    - Python
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Project management
+    - Communication
+    - Time management
+    - Problem solving
+    - Technical knowledge
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
     - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Git/Github
+    - Python
+    - Agile/Scrum
     - Swift
-  # At least 5 skills
-  competent:
-    - Java
+    - Jave
     - HTML/CSS
     - Docker
-    - NodeJS
     - Springboot
     - Linux/Bash
     - Data Structure
-  # At least 5 skills
-  familiar:
-    - C#
-    - Javascript
-    - Machine Learning/Deep Learning
-    - Google Cloud Platform
     - Ruby
-    - C
-    - Numpy
     - Haskell
-    - Opencv
+    - Docker
 
 # List of Jarvis projects
 jarvis_projects:
