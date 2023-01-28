@@ -37,7 +37,7 @@ crontab -e
 
 ## Architecture
 
-![Architecture Diagram](./.assets/architecture_diagram.png)
+![Architecture Diagram](Jarvis-Consulting-Group/jarvis_data_eng-parsaabadi/assets/architecture_diagram.png)
 
 Each individual Linux machine is interconnected via a switch. A designated node holds the PSQL instance and can transmit the output from its scripts directly to the database. The remaining nodes, however, must transmit their results through the switch before they can reach the PSQL instance.
 
