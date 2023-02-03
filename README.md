@@ -1,15 +1,14 @@
-feature/profile
 # Parsa Abadi . Jarvis Consulting
 
-My name is Parsa Abadi and I am an active team player who is curious, maintains a strict schedule, and mostly adheres to established protocols while also being open to flexibility when necessary. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science and have a strong academic record. I gained expertise in the tech and IT industry through my studies and as a research engineer at McScert, where I maintained and updated documentations for pods using JIRA, collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. Additionally, I am part of a city wide volleyball team and enjoy playing chess competitively. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
+I am an active team player who is curious, maintains a strict schedule, and adheres to established protocols. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science and have a strong academic record. I gained expertise in the tech and IT industry through my studies and as a research engineer at McScert, where I maintained and updated documentations for pods using JIRA, collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. Additionally, I am part of a city wide volleyball team and enjoy playing chess competitively. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
 
 ## Skills
 
 **Proficient:** Git, Angular/React, Agile/Scrum, Python, RDBMS/SQL
 
-**Competent:** Java, HTML/CSS, NodeJS, Docker, Linux/Bash, AWS
+**Competent:** Java, HTML/CSS, NodeJS, Docker, Linux/Bash, AWS, REST APIs
 
-**Familiar:** C#, Spring, ASP.NET, REST APIs, Ruby, Haskell
+**Familiar:** C#, Spring, ASP.NET, C/C++, Ruby, Haskell
 
 ## Jarvis Projects
 
@@ -29,7 +28,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2023-present)**: Joined as a Junior Software Developer, I have been gaining experience in new technologies such as Linux, SQL, Java, and Spring by working on projects in an Agile/Scrum environment. These technologies are commonly used in the professional workplace for clients similar to CIBC, National Bank, and Teranet.
+**Technical Consultant, Jarvis (2023-present)**: Joined as a Technical Consultant, I have been gaining experience in new technologies such as Linux, SQL, Java, and Spring by working on projects in an Agile/Scrum environment. These technologies are commonly used in the professional workplace for clients similar to CIBC, National Bank, and Teranet.
 
 **Research Engineer, McScert (2021-2022)**: Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software.
 
@@ -42,6 +41,5 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Miscellaneous
 - Painting (Realism, Oil, Photorealism)
-- Volleyball and soccer
-- Competitive games like chess or online multiplayer video games.
-develop
+- Active member of the Richmond Hill Volleyball team.
+- Participated in chess tournaments while attending McMaster University
