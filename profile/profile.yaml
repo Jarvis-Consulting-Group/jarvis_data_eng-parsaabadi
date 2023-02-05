@@ -19,13 +19,14 @@ skills:
     - Git/Github
   # At least 5 skills
   competent:
+    - Docker
     - Java
     - NodeJS
     - Angular/React
     - AWS
+    - Firebase
+    - JavaScript
     - HTML/CSS
-    - Docker
-    - REST APIs
   # At least 5 skills
   familiar:
     - C#
