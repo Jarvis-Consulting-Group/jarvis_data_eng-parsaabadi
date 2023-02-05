@@ -40,6 +40,6 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Miscellaneous
-- Painting (Realism, Oil, Photorealism)
 - Energetic member of the Richmond Hill Volleyball team.
 - Actively participating in chess tournaments.
+- Painting (Realism, Oil, Photorealism)
