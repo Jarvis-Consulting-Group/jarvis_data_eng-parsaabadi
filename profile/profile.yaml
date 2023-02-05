@@ -96,14 +96,14 @@ professional_experience:
 
 #List of edcuation
 education: 
-  - school_name: "asdfasfa"
-    duration: "asfdsafd"
-    degree: "add"
-    department: "asdf"
+  - school_name: "McMaster University"
+    duration: "2018-2022"
+    degree: "B.A.Sc. Honours, Computer Science"
+    department: "Department of Engineering"
     # optional
     awards_achievements:
-      - "asdf"
-      - "add"
+      - "Dean's List: Was on the Dean's list by achieving a term GPA above 3.5"
+      - "The Presidential Entrance Scholarship: Given to students entering McMaster University, is awarded to those who have achieved a minimum grade point average of 3.7/4.0."
 #  - school_name: "XYZ university"
 #    duration: "2016-2018"
 #    degree: "Master of Engineering"
@@ -122,6 +122,6 @@ others:
 #      - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "asdf"
-      - "asdf"
-      - "asdf"
+      - "Energetic member of the Richmond Hill Volleyball team."
+      - "Actively participating in chess tournaments."
+      - "Painting (Realism, Oil, Photorealism)"
