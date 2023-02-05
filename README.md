@@ -6,7 +6,7 @@ I am a motivated team player who is curious, organized, and committed to followi
 
 **Proficient:** Python, RDBMS/SQL, Linux/Bash, Agile/Scrum, Git/Github
 
-**Competent:** Java, NodeJS, Angular/React, AWS, HTML/CSS, Docker, REST APIs
+**Competent:** Docker, Java, NodeJS, Angular/React, AWS, Firebase, JavaScript, HTML/CSS
 
 **Familiar:** C#, C/C++, Haskell, Spring, Ruby, ASP.NET
 
