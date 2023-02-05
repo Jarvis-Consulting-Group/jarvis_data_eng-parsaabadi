@@ -41,7 +41,7 @@ jarvis_projects:
     git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-parsaabadi/tree/main/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: The Linux nodes within a cluster are monitored for their hardware specifications and usage, with the collected data being stored in a PostgreSQL database utilizing Docker, Bash scripts, and Linux commands such as crontab. The PostgreSQL database runs within a Docker container, configured using a Bash script, while additional Bash scripts gather the data from the machines utilizing Linux commands such as lscpu, vmstat, and psql. The scripts are scheduled to run every minute through crontab for continuous monitoring.
+    description: The Linux nodes in a cluster are monitored for hardware specifications and usage, with the data stored in a PostgreSQL database. The database runs in a Docker container, configured with a Bash script to allow data to be collected from the machines with Linux commands (such as lscpu, vmstat, and psql) and scheduled to run every minute using crontab to allow for continuous monitoring.
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
 #    description:
