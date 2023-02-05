@@ -72,13 +72,13 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/parsaabadi/4ww3-project01"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based objects. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript, which are used to create the layout, styling and interactive features of the website. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and have some animation implemented using animate.css.
+    description: The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based destinations. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript, which are used to create the layout, styling and interactive features of the website. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and has some animations implemented using animate.css.
   - name: "Python Custom Compiler"
     git_url: "https://github.com/parsaabadi/Compiler-Final-Version"
     description: The project involved modifying a pre-existing P0 Compiler to include new features such as universal quantifiers, array builders, set builders, and existential quantifiers. These extensions were implemented by modifying files located in the src folder and adding new files required to extend the original P0 compiler capabilities. These new features allow for the use of quantified expressions in the P0 language, similar to those found in languages like Python, where they can be implemented through external libraries or custom designs. The project aims to enhance the P0 compiler's capabilities by adding support for universal and existential quantifiers, array builders, and set builders.
   - name: "SprayPost"
     git_url: "https://github.com/parsaabadi/Startup"
-    description: Spray Post is an innovative communication app that allows users to connect with others in close proximity using cutting-edge technology, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.
+    description: Spray Post is an innovative communication app that allows users to connect with others in close proximity using a custom engine, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
@@ -92,18 +92,18 @@ professional_experience:
   - title: "Research Engineer"
     company: "McScert"
     duration: "2021-2022"
-    description: "Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software.
+    description: "Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software."
 
 #List of edcuation
 education: 
-  - school_name: "McMaster University"
-    duration: "2018-2022"
-    degree: "B.A.Sc. Honours, Computer Science"
-    department: "Department of Engineering"
+  - school_name: "asdfasfa"
+    duration: "asfdsafd"
+    degree: "add"
+    department: "asdf"
     # optional
     awards_achievements:
-      - "Dean's List: Was on the Dean's list by achieving a term GPA above 3.5"
-      - "The Presidential Entrance Scholarship: Given to students entering McMaster University, is awarded to those who have achieved a minimum grade point average of 3.7/4.0."
+      - "asdf"
+      - "add"
 #  - school_name: "XYZ university"
 #    duration: "2016-2018"
 #    degree: "Master of Engineering"
@@ -122,6 +122,6 @@ others:
 #      - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "Painting (Realism, Oil, Photorealism)"
-      - "Energetic member of the Richmond Hill Volleyball team."
-      - "Actively participating in chess tournaments."
+      - "asdf"
+      - "asdf"
+      - "asdf"
