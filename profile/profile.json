@@ -63,13 +63,14 @@
   ],
   "skills": {
     "competent": [
+      "Docker",
       "Java",
       "NodeJS",
       "Angular/React",
       "AWS",
-      "HTML/CSS",
-      "Docker",
-      "REST APIs"
+      "Firebase",
+      "JavaScript",
+      "HTML/CSS"
     ],
     "familiar": [
       "C#",
