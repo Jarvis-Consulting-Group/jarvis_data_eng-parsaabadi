@@ -5,7 +5,8 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-I am a motivated team player who is curious, organized, and committed to following established rules and protocols in all aspects of my work and personal life. I constantly attempt to contribute to a productive and encouraging work environment because communication and teamwork are essential to success. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science with a strong academic record. I offer knowledge from my studies and experience to the software industry. I add value to any team with my understanding of documentation, user requirements, and software development. In addition, I am a proud and dedicated member of my city, competing in competitive chess and playing volleyball for a city-wide team. These passions bring balance to my life and a fresh perspective to my work. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
+summary: I am a motivated team player who is curious, organized, and committed to following established rules and protocols in all aspects of my work and personal life. I constantly attempt to contribute to a productive and encouraging work environment because communication and teamwork are essential to success. I recently graduated from McMaster University with a Bachelor of Applied Science in Honours Computer Science with a strong academic record. I offer knowledge from my studies and experience to the software industry. I add value to any team with my understanding of documentation, user requirements, and software development. In addition, I am a proud and dedicated member of my city, competing in competitive chess and playing volleyball for a city-wide team. These passions bring balance to my life and a fresh perspective to my work. I am excited for the opportunity to prove myself as a valuable team member in the software development industry.
+
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -40,7 +41,7 @@ jarvis_projects:
     git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-parsaabadi/tree/main/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: The Linux nodes in a cluster are monitored for hardware specifications and usage, with the data stored in a PostgreSQL database. The database runs in a Docker container, configured with a Bash script to allow data to be collected from the machines with Linux commands (such as lscpu, vmstat, and psql) and scheduled to run every minute using crontab to allow for continuous monitoring.
+    description: The Linux nodes within a cluster are monitored for their hardware specifications and usage, with the collected data being stored in a PostgreSQL database utilizing Docker, Bash scripts, and Linux commands such as crontab. The PostgreSQL database runs within a Docker container, configured using a Bash script, while additional Bash scripts gather the data from the machines utilizing Linux commands such as lscpu, vmstat, and psql. The scripts are scheduled to run every minute through crontab for continuous monitoring.
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
 #    description:
@@ -71,23 +72,23 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/parsaabadi/4ww3-project01"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based destinations. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript, which are used to create the layout, styling and interactive features of the website. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and has some animations implemented using animate.css.
+    description: The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based objects. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript, which are used to create the layout, styling and interactive features of the website. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and have some animation implemented using animate.css.
   - name: "Python Custom Compiler"
     git_url: "https://github.com/parsaabadi/Compiler-Final-Version"
     description: The project involved modifying a pre-existing P0 Compiler to include new features such as universal quantifiers, array builders, set builders, and existential quantifiers. These extensions were implemented by modifying files located in the src folder and adding new files required to extend the original P0 compiler capabilities. These new features allow for the use of quantified expressions in the P0 language, similar to those found in languages like Python, where they can be implemented through external libraries or custom designs. The project aims to enhance the P0 compiler's capabilities by adding support for universal and existential quantifiers, array builders, and set builders.
   - name: "SprayPost"
     git_url: "https://github.com/parsaabadi/Startup"
-    description: Spray Post is an innovative communication app that allows users to connect with others in close proximity using a custom engine, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.
+    description: Spray Post is an innovative communication app that allows users to connect with others in close proximity using cutting-edge technology, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Technical Consultant"
+  - title: "Software Developer"
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Joined as a Technical Consultant, I have gained experience in new technologies such as Java, Python, SQL, and Spring by working on projects in an Agile/Scrum environment. These technologies are used in the professional workplace for clients."
+    description: "Joined as a Junior Software Developer, I have been gaining experience in new technologies such as Linux, SQL, Java, and Spring by working on projects in an Agile/Scrum environment. These technologies are commonly used in the professional workplace for clients similar to CIBC, National Bank, and Teranet."
   - title: "Research Engineer"
     company: "McScert"
     duration: "2021-2022"
@@ -101,8 +102,8 @@ education:
     department: "Department of Engineering"
     # optional
     awards_achievements:
-      - Dean's List: Was on the Dean's list by achieving a term GPA above 3.5.
-      - The Presidential Entrance Scholarship: Given to students entering McMaster University, is awarded to those who have achieved a minimum grade point average of 3.7/4.0.
+      - "Dean's List: Was on the Dean's list by achieving a term GPA above 3.5"
+      - "The Presidential Entrance Scholarship: Given to students entering McMaster University, is awarded to those who have achieved a minimum grade point average of 3.7/4.0."
 #  - school_name: "XYZ university"
 #    duration: "2016-2018"
 #    degree: "Master of Engineering"
@@ -122,5 +123,5 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Painting (Realism, Oil, Photorealism)"
-      - "Energetic member of the Richmond Hill Volleyball team."
-      - "Actively participating in chess tournaments."
+      - "Volleyball and soccer"
+      - "Competitive games like chess or online multiplayer video games."
