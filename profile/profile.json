@@ -56,7 +56,7 @@
     },
     {
       "company": "McScert",
-      "description": "Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software.",
+      "description": "Led the team in maintaining and regularly updating documentation for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software.",
       "duration": "2021-2022",
       "title": "Research Engineer"
     }
