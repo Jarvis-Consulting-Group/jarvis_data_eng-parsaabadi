@@ -88,11 +88,11 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Joined as a Junior Software Developer, I have been gaining experience in new technologies such as Linux, SQL, Java, and Spring by working on projects in an Agile/Scrum environment. These technologies are commonly used in the professional workplace for clients similar to CIBC, National Bank, and Teranet."
+    description: "Joined as a Technical Consultant, I have gained experience in new technologies such as Java, Python, SQL, and Spring by working on projects in an Agile/Scrum environment. These technologies are used in the professional workplace for clients."
   - title: "Research Engineer"
     company: "McScert"
     duration: "2021-2022"
-    description: "Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software."
+    description: "Led the team in maintaining and regularly updating documentations for pods using JIRA. I also collected user requirements for building and maintaining code for tools, and applied principles of safety engineering to software development in a model-driven environment. This resulted in a boost of 10% development efficiency through testing for bugs. I conducted regular team meetings to share project status, issues, and ideas, rapidly prototyped new capabilities to confirm feasibility, and deployed inter-device communications such as SPI, I2C, and UART. Additionally, I re-designed the auto-layout system for the framework resulting in 20% better readability for testing software.
 
 #List of edcuation
 education: 
@@ -123,5 +123,5 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Painting (Realism, Oil, Photorealism)"
-      - "Volleyball and soccer"
-      - "Competitive games like chess or online multiplayer video games."
+      - "Energetic member of the Richmond Hill Volleyball team."
+      - "Actively participating in chess tournaments."
