@@ -14,7 +14,7 @@
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-parsaabadi",
   "highlighted_projects": [
     {
-      "description": "The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based destinations. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript, which are used to create the layout, styling and interactive features of the website. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and has some animations implemented using animate.css.",
+      "description": "The 4WW3 Project is a website that allows users to browse and contribute reviews of geographically based destinations. The website utilizes a combination of technologies to provide a seamless user experience. The front-end of the website is built using HTML, CSS and JavaScript. On the back-end, the website utilizes PHP to handle server-side tasks such as user authentication and data management. Additionally, the website uses .htaccess to accept php for secure user authorization and Git for version control. The site also uses Jquery and Bootstrap for responsive design and has some animations implemented using animate.css.",
       "git_url": "https://github.com/parsaabadi/4ww3-project01",
       "name": "Web Development Local Business Review App"
     },
@@ -24,7 +24,7 @@
       "name": "Python Custom Compiler"
     },
     {
-      "description": "Spray Post is an innovative communication app that allows users to connect with others in close proximity using a custom engine, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes features such as creating and joining groups, a built-in social media platform, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.",
+      "description": "Spray Post is an innovative communication app that allows users to connect with others in close proximity using a custom engine, Swift, and cloud services. It uses location-based services to identify nearby users and enables real-time communication through text, audio, and video messages, and even voice and video calls. The app also includes a social media platform such as creating and joining groups, and sharing location with friends and family. Additionally, Spray Post prioritizes user security and privacy, with customizable profiles and settings. With its many functionalities, Spray Post is an easy and efficient way for users to communicate with those in close proximity.",
       "git_url": "https://github.com/parsaabadi/Startup",
       "name": "SprayPost"
     }
